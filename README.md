@@ -11,6 +11,7 @@ Used technologies:
 
 - Libgdx
 - Box2D
+- Physics Body Editor (box2d-editor)
 - Apache Commons
 
 Check doc for more technical details.
