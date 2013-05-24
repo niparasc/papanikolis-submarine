@@ -9,9 +9,10 @@ How to play: Touch screen to ascend, release to descend.
 
 Used technologies:
 
-- Libgdx
-- Box2D
-- Physics Body Editor (box2d-editor)
-- Apache Commons
+- [LibGDX](http://libgdx.badlogicgames.com/)
+- [Box2D](http://box2d.org/)
+- [LibGDX Project Setup](https://github.com/AurelienRibon/gdx-setup-ui)
+- [Physics Body Editor](http://code.google.com/p/box2d-editor/)
+- [Apache Commons](http://commons.apache.org/)
 
 Check doc for more technical details.
